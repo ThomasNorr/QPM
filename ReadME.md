@@ -171,11 +171,10 @@ One pretrained Resnet50 for QPM on CUB can be obtained via this link: https://dr
 
 One pretrained Resnet50 for Q-SENN on CUB can be obtained via this link: https://drive.google.com/drive/folders/1agWqKhcWOVWueV4Fzaowr80lQroCJFYn?usp=drive_link
 ## Acknowledgement
-This work was supported by the Federal Ministry of Education and Research (BMBF), Germany under the AI service center KISSKI (grant no. 01IS22093C) and the Deutsche Forschungsgemeinschaft (DFG) under Germany’s Excellence Strategy within the Cluster of Excellence PhoenixD (EXC 2122).
-This work was partially supported by Intel Corporation and by the German Federal Ministry
-of the Environment, Nature Conservation, Nuclear Safety
-and Consumer Protection (GreenAutoML4FAS project no.
-67KI32007A). 
+This work was supported by the Federal Ministry of Education and Research (BMBF), Germany, under the AI service center KISSKI (grant no. 01IS22093C), the Deutsche Forschungsgemeinschaft (DFG) under Germany’s Excellence Strategy within the Cluster of Excellence PhoenixD (EXC2122), 
+the European Union  under grant agreement no. 101136006 – XTREME.
+The work has been done in collaboration and partially funded by the Intel Corporation.
+This work was partially supported by the German Federal Ministry of the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (GreenAutoML4FAS project no. 67KI32007A).
 
 The work was done at the Leibniz University Hannover and published at ICLR 2025.
 
