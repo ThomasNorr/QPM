@@ -167,9 +167,11 @@ SLDD-Model
 }
 ```
 ## Pretrained Models
-One pretrained Resnet50 for QPM on CUB can be obtained via this link: https://drive.google.com/drive/folders/1skvJfzGAqQTm3_eQaTpb7kE_sXnBsm4W?usp=sharing
+One pretrained Resnet50 for QPM on CUB can be obtained via this link: [QPM-WithCrop](https://drive.google.com/drive/folders/1skvJfzGAqQTm3_eQaTpb7kE_sXnBsm4W?usp=sharing)
 
-One pretrained Resnet50 for Q-SENN on CUB can be obtained via this link: https://drive.google.com/drive/folders/1agWqKhcWOVWueV4Fzaowr80lQroCJFYn?usp=drive_link
+One pretrained Resnet50 QPM trained on CUB without the ground truth crop can be obtained via this link: [QPM-NoCrop](https://drive.google.com/file/d/1VSx_qOFFSosfjxvChv9iL3FT1YXqqOVa/view?usp=drive_link](https://drive.google.com/drive/folders/1WC8k_vQTdTR0LWxI8zUByn7RPDVhQawc?usp=sharing))
+
+One pretrained Resnet50 for Q-SENN on CUB can be obtained via this link: [Q-SENN-WithCrop](https://drive.google.com/drive/folders/1agWqKhcWOVWueV4Fzaowr80lQroCJFYn?usp=drive_link)
 ## Acknowledgement
 This work was supported by the Federal Ministry of Education and Research (BMBF), Germany, under the AI service center KISSKI (grant no. 01IS22093C), the Deutsche Forschungsgemeinschaft (DFG) under Germany’s Excellence Strategy within the Cluster of Excellence PhoenixD (EXC2122), 
 the European Union  under grant agreement no. 101136006 – XTREME.
