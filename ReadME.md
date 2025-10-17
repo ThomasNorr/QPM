@@ -16,6 +16,8 @@ Interpretable Image Classification with a Handful of Features*](https://arxiv.or
 Workshop) from the same authors is included.
 This repository extends [*Q-SENN's*](https://github.com/ThomasNorr/Q-SENN).
 
+Please also check out [CHiQPM: Calibrated Hierarchical Interpretable Image Classification](https://github.com/ThomasNorr/chiqpm) (NeurIPS 2025), if you like this line of work.
+
 <p align="center">
     <img height="300" src="fig/dogs.png"> 
 </p>
